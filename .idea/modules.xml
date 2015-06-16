@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ecp.iml" filepath="$PROJECT_DIR$/ecp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-admin/ecp-admin.iml" filepath="$PROJECT_DIR$/ecp-admin/ecp-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-cms/ecp-cms.iml" filepath="$PROJECT_DIR$/ecp-cms/ecp-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-common/ecp-common.iml" filepath="$PROJECT_DIR$/ecp-common/ecp-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-core/ecp-core.iml" filepath="$PROJECT_DIR$/ecp-core/ecp-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-parent/ecp-parent.iml" filepath="$PROJECT_DIR$/ecp-parent/ecp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-rest-api/ecp-rest-api.iml" filepath="$PROJECT_DIR$/ecp-rest-api/ecp-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecp-website/ecp-website.iml" filepath="$PROJECT_DIR$/ecp-website/ecp-website.iml" />
+    </modules>
+  </component>
+</project>

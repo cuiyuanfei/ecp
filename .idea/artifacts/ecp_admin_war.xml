@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecp-admin:war">
+    <output-path>$PROJECT_DIR$/ecp-admin/target</output-path>
+    <root id="archive" name="ecp-admin.war">
+      <element id="artifact" artifact-name="ecp-admin:war exploded" />
+    </root>
+  </artifact>
+</component>

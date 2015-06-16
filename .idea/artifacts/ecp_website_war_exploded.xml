@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ecp-website:war exploded">
+    <output-path>$PROJECT_DIR$/ecp-website/target/ecp-website</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ecp-website" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:\重要资料\2.0\mysql版本_spring4.0\ecp\ecp-website\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ecp-website/web/Web" />
+    </root>
+  </artifact>
+</component>
